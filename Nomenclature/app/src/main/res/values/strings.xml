@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Nomenclature</string>
+    <string name="add_shipment_button_text">Прием товара</string>
+    <string name="MainScreenName">MainScreen</string>
+    <string name="ScannerScreenName">ScannerScreen</string>
+    <string name="StorageItemScreen">StorageItemScreen</string>
+    <string name="manual_input_button_text">Ввести вручную</string>
+    <string name="shipment_search_button_text">Поиск товара</string>
+    <string name="default_search_placeholder_text">Поиск</string>
+    <string name="SearchScreenName">SearchScreen</string>
+    <string name="refresh_page_button_text">Повторить попытку</string>
+
+    <string name="unknown_exception">Возникла неизвестная ошибка</string>
+    <string name="category_placeholder">Все категории</string>
+    <string name="io_exception">Ошибка загрузки. Проверьте подключение к сети и повторите попытку.</string>
+    <string name="product_name_text">Название товара</string>
+    <string name="product_id_text">ID</string>
+    <string name="delete_dialog_confirm_button_text">Удалить</string>
+    <string name="delete_dialog_cancel_button_text">Отмена</string>
+    <string name="delete_confirm_text">Вы действительно хотите удалить выбранный элемент?</string>
+    <string name="product_sku_text">SKU</string>
+    <string name="barcode_text">Штрих-код</string>
+    <string name="category_text">Категория</string>
+    <string name="ext_id_text">Номер ячейки</string>
+    <string name="delete_button_text">Удалить единицу хранения</string>
+    <string name="delete_dialog_title">Удалить единицу хранения</string>
+    <string name="edit_alert_title">Редактировать</string>
+    <string name="save_button_text">Сохранить</string>
+    <string name="add_storage_unit_button_text">Добавить</string>
+    <string name="add_and_open_storage_unit_button_text">Добавить и открыть</string>
+    <string name="loading_text">Загрузка</string>
+    <string name="ext_id_number_text">Номер ячейки</string>
+</resources>
